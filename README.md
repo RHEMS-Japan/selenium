@@ -1,4 +1,4 @@
-![](https://www.selenium.dev/images/selenium_4_logo.png)
+<img src="https://www.selenium.dev/images/selenium_4_logo.png" width="600">
 
 [![selenium](https://badges.rhems-japan.com/api-get-dockerhub-badge.svg?owner=rhemsjapan&namespace=rhemsjapan&name=selenium&timedelta=9)](https://hub.docker.com/r/rhemsjapan/selenium ) 
 ## Selenium Container
